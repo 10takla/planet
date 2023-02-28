@@ -1,0 +1,32 @@
+.head {
+    background: #e9a3fc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head > * {
+    transition: all ease 300ms;
+}
+
+.head > *:hover {
+    transform: scale(1.05);
+}
+
+.head-home {
+    font-size: 1.3em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #20638d;
+
+}
+
+.head-sign {
+    background: rgba(243, 243, 181, 0.68);
+    font-size: 1.1em;
+    border: 0.1em solid black;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+
+}
