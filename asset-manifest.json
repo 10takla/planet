@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://10takla.github.io/planet/static/css/main.85616999.css",
-    "main.js": "https://10takla.github.io/planet/static/js/main.45919741.js",
-    "index.html": "https://10takla.github.io/planet/index.html",
-    "main.85616999.css.map": "https://10takla.github.io/planet/static/css/main.85616999.css.map",
-    "main.45919741.js.map": "https://10takla.github.io/planet/static/js/main.45919741.js.map"
+    "main.css": "https://10takla.github.io/static/css/main.85616999.css",
+    "main.js": "https://10takla.github.io/static/js/main.149e712c.js",
+    "index.html": "https://10takla.github.io/index.html",
+    "main.85616999.css.map": "https://10takla.github.io/static/css/main.85616999.css.map",
+    "main.149e712c.js.map": "https://10takla.github.io/static/js/main.149e712c.js.map"
   },
   "entrypoints": [
     "static/css/main.85616999.css",
-    "static/js/main.45919741.js"
+    "static/js/main.149e712c.js"
   ]
 }
